@@ -6,3 +6,4 @@ Hey, I'm Gustavo👋
     ✉️ E-mail: gustavo.nery@aluno.cefet-rj.br
     🤖 Discord: coady#6470
     😄 Pronouns: he/him
+    💻 Occupation: I am currently doing an internship at the PMNF - Prefeitura Municipal de Nova Friburgo
