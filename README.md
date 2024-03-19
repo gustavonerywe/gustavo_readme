@@ -16,4 +16,7 @@ Hey, I'm Gustavo👋
 # 📊 GitHub Stats:
 [![Nery's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=gustavonerywe&theme=dracula&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/gustavonerywe)
 ##### ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonerywe&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=0e75b6&style=flat" alt="gustavonerywe" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe" alt="gustavonerywe" /></a> </p>
 
