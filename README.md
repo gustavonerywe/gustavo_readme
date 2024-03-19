@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
 
-I'm Nery 💀🟣
+# <p align="center">💀🟣</p>
 
     🏫 Studying SI at CEFET/RJ NOVA FRIBURGO.
     👩‍💻 Long experience in programming with django restframework
