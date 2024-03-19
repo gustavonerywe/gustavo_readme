@@ -20,4 +20,5 @@ I'm Nery 💀🟣
 # 📊 GitHub Stats:
 [![Nery's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=gustavonerywe&theme=dracula&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/gustavonerywe)
 ##### ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonerywe&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![purple fire](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/e9b51de5-f5d0-499b-abff-d8e14b4ceb68)
+
+![purple fire](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/b1b73cf9-2f54-44b3-91f9-6f5883fc5f4e)
