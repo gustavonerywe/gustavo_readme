@@ -1,3 +1,4 @@
+![profile](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/383c5f45-6b51-4f95-b1a7-cfe1f1a8ce0c)
 Hey, I'm Gustavo👋
 
     🌱 I’m currently learning HTML5, CSS, Python, JavaScript, C++, MySQL and PHP.
