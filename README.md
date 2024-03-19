@@ -1,17 +1,16 @@
 ![profile](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/383c5f45-6b51-4f95-b1a7-cfe1f1a8ce0c)
-Hey, I'm Gustavo👋
 
-    🌱 I’m currently learning HTML5, CSS, Python, JavaScript, C++, MySQL and PHP.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
+
+I'm Nery 💀🟣
+
     🏫 Studying SI at CEFET/RJ NOVA FRIBURGO.
     👩‍💻 Long experience in programming with django restframework
     ✉️ E-mail: gustavonerybarbosa@gmail.com
     🤖 Discord: coady#6470
     😄 Pronouns: he/him
     💻 Occupation: I work at fitmoda as a developer
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Sotíris#3271) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavonery._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nery-barbosa-67398a248/) 
@@ -21,5 +20,4 @@ Hey, I'm Gustavo👋
 # 📊 GitHub Stats:
 [![Nery's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=gustavonerywe&theme=dracula&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/gustavonerywe)
 ##### ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonerywe&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+![purple fire](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/e9b51de5-f5d0-499b-abff-d8e14b4ceb68)
