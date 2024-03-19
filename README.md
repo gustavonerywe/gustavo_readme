@@ -1,5 +1,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&theme=radical" alt="gustavonerywe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
 
 
 Hey, I'm Gustavo👋
