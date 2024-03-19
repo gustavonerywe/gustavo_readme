@@ -1,16 +1,18 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
-
+![mybones](https://w.wallhaven.cc/full/85/wallhaven-856dlk.png) 
 
 Hey, I'm Gustavo👋
 
     🌱 I’m currently learning HTML5, CSS, Python, JavaScript, C++, MySQL and PHP.
-    🏫 Studying Computer Technician integrated to high school at CEFET/RJ NOVA FRIBURGO.
-    📫 Reach me on:
-    ✉️ E-mail: gustavo.nery@aluno.cefet-rj.br
+    🏫 Studying SI at CEFET/RJ NOVA FRIBURGO.
+    👩‍💻 Long experience in programming with django restframework
+    ✉️ E-mail: gustavonerybarbosa@gmail.com
     🤖 Discord: coady#6470
     😄 Pronouns: he/him
     💻 Occupation: I work at fitmoda as a developer
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavonerywe&theme=radical" alt="gustavonerywe" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavonerywe&label=Profile%20views&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS" alt="gustavonerywe" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Sotíris#3271) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gustavonery._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-nery-barbosa-67398a248/) 
