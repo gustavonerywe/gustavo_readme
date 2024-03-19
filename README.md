@@ -1,5 +1,3 @@
-![Joshua Tree and other desert flora at sunset]([https://user-images.githubusercontent.com/92824518/145449253-947a7620-c23c-4c02-afe6-8edb5bf20b28.JPG](https://w.wallhaven.cc/full/85/wallhaven-856dlk.png)) 
-
 Hey, I'm Gustavo👋
 
     🌱 I’m currently learning HTML5, CSS, Python, JavaScript, C++, MySQL and PHP.
