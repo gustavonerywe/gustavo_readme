@@ -20,4 +20,13 @@
 # 📊 GitHub Stats:
  [![Nery's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=gustavonerywe&theme=radical&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/gustavonerywe) 
 
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/khoaxuantu/khoaxuantu/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 ![footer2](https://github.com/gustavonerywe/gustavonerywe/assets/90864370/8124646b-8a44-425c-8208-ccb5cab0c8b2)
